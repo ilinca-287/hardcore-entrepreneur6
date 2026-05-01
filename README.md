@@ -10,6 +10,8 @@ Demos:
 * Pitch: https://youtu.be/213WQi40D5w
 * App: https://youtu.be/_xr_bOfti10
 
+Published web application: https://thunkable.site/w/Renu_7B_9MXP1nOvzX8R_
+
 
 
 
