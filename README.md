@@ -12,6 +12,8 @@ Demos:
 
 Published web application: `https://thunkable.site/w/Renu_7B_9MXP1nOvzX8R_`
 
+Resources: https://drive.google.com/drive/folders/1aejGJ5pnn1bKMvKsuwsFkTyLIAAq3a7K?usp=sharing
+
 
 
 
